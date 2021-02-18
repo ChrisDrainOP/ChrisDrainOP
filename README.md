@@ -1,6 +1,6 @@
 # ¡Hola!
 
-![Chris Drain's Logo](https://github.com/ChrisDrainOP/ChrisDrainOP/blob/main/githubChrisLearnsBanner.png?raw=true)
+![Chris Drain's Logo](https://github.com/ChrisDrainOP/ChrisDrainOP/blob/main/githubChrisLearnsV2.png?raw=true)
 
 
 ## Currently working on...
