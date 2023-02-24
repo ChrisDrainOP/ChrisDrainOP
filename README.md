@@ -3,7 +3,7 @@
 ![Chris Drain's Logo](https://github.com/ChrisDrainOP/ChrisDrainOP/blob/main/githubChrisLearnsV2.png?raw=true)
 
 ## Completed
-- Completed the networking course on roppers.com
+- Completed the networking course on hoppersroppers.com
 - CyberAces Networking course
 - Completed Building Virtual Machine Labs: A Hands-On Guide (Second Edition) By: Tony Robinson
 
