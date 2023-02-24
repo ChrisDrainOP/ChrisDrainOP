@@ -14,3 +14,4 @@
 - Malware Unicorn has a great course on Reverse Engineering
 - Do everything in the book Gray Hat Python
 - Do everything in the book Violent Python
+- Go through Nightmare repository by GuyinTuxedo (Forked)
