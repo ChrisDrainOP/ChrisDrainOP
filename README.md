@@ -5,6 +5,7 @@
 ## Completed
 - Completed the networking course on hoppersroppers.com
 - CyberAces Networking course
+- CyberAces Linux and Windows course
 - Completed Building Virtual Machine Labs: A Hands-On Guide (Second Edition) By: Tony Robinson
 
 ## Currently working on...
